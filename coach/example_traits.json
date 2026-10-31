@@ -1,0 +1,19 @@
+{
+ "_note": "MADE-UP numbers to show the format and test the script. Not real pro data; do not coach from these.",
+ "player": "K",
+ "level": "4.0 club player",
+ "goal": "a heavier, more reliable forehand",
+ "camera": "phone on a tripod behind the baseline, about 5 ft high",
+ "strokes": {
+  "forehand": {
+   "n": 24,
+   "traits": {
+    "shoulder_turn_at_contact": {"you": 18.0, "pro_mean": 31.0, "pro_sd": 6.0, "unit": "degrees"},
+    "contact_in_front": {"you": 0.35, "pro_mean": 0.62, "pro_sd": 0.12, "unit": "torso lengths"},
+    "contact_to_side": {"you": 0.9, "pro_mean": 1.05, "pro_sd": 0.15, "unit": "torso lengths"},
+    "swing_time": {"you": 0.31, "pro_mean": 0.24, "pro_sd": 0.03, "unit": "seconds, backswing end to contact"},
+    "wrist_speed_peak": {"you": 9.5, "pro_mean": 14.0, "pro_sd": 2.0, "unit": "torso lengths per second"}
+   }
+  }
+ }
+}

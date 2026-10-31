@@ -1,0 +1,3 @@
+[submodule "upstream/deep-sports-analysis"]
+	path = upstream/deep-sports-analysis
+	url = https://github.com/offpolicyinc/deep-sports-analysis.git

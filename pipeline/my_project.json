@@ -1,0 +1,13 @@
+{
+ "me": {
+  "what": "My own phone sessions, filmed from behind the baseline, compared with the atp_hardcourt pros.",
+  "who": "K",
+  "players": ["K", "Hitting partner"],
+  "heights": {"K": 1.75, "Hitting partner": 1.78},
+  "compare_with": "atp_hardcourt",
+  "strokes": true,
+  "videos": {
+   "2026_11_session1": ["data/raw/me/session1.mov", "Practice vs Hitting partner", 0, 1200]
+  }
+ }
+}
